@@ -1,0 +1,6 @@
+framework module IngenicoDirectKit {
+  umbrella header "IngenicoDirectKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
