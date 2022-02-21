@@ -1,6 +1,0 @@
-framework module Pods_IngenicoDirectExample {
-  umbrella header "Pods-IngenicoDirectExample-umbrella.h"
-
-  export *
-  module * { export * }
-}
